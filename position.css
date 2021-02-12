@@ -1,0 +1,164 @@
+.box-set-one, .box-set-two, .box-set-three,.box-set-four,.box-set-five, .box-one,
+.box-two, .box-three, .box-four, .box-five{
+            border-radius: 6px;
+        }
+
+.box-set-one{
+            background: black;
+        }
+
+.box-set-two{
+            background: black;
+        }
+
+
+.box-set-three{
+            background: black;
+        }
+
+
+.box-set-four{
+            background: black;
+        }
+
+.box-set-five{
+            background: black;
+}        
+
+
+.box-one {
+            position: static;
+            background: whitesmoke;
+            height: 80px;
+            width: 80px;
+            text-align: center;
+            margin: 20px;
+}
+
+.box-1{
+    top: 20px;
+}
+
+.box-2{
+    left: 20px;
+}
+
+.box-3{
+    right: 20px;
+}
+
+.box-4{
+    bottom: 20px;
+}
+
+
+
+.box-two {
+            position: absolute;
+            background: whitesmoke;
+            height: 80px;
+            width: 80px;
+            text-align: center;
+            margin: 20px;
+}
+
+.box-5{
+    top: 20px;
+}
+
+.box-6{
+    left: 20px;
+}
+
+.box-7{
+    right: 20px;
+}
+
+.box-8{
+    right: 80px;
+}
+
+
+
+.box-three {
+            position: relative;
+            background: whitesmoke;
+            height: 80px;
+            width: 80px;
+            text-align: center;
+            margin: 20px;
+}
+
+.box-9{
+    top: 80px;
+}
+
+.box-10{
+    left: 50px;
+}
+
+.box-11{
+    right: 60px;
+}
+
+.box-12{
+    right: 120px;
+}
+
+
+
+
+.box-four {
+            position: sticky;
+            background: whitesmoke;
+            height: 80px;
+            width: 80px;
+            text-align: center;
+            margin: 20px;
+}
+
+.box-13{
+    top: 80px;
+}
+
+.box-14{
+    left: 50px;
+}
+
+.box-15{
+    right: 60px;
+}
+
+.box-16{
+    right: 140px;
+}
+
+
+
+
+.box-five {
+            position: fixed;     
+            background: whitesmoke;
+            height: 80px;
+            width: 80px;
+            text-align: center;
+            margin: 20px;
+}
+
+.box-17{
+    top: 90px;
+}
+
+.box-18{
+    left: 50px;
+}
+
+.box-19{
+    right: 40px;
+}
+
+.box-20{
+    right: 180px;
+}
+
+
